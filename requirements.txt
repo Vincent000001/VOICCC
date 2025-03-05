@@ -1,0 +1,7 @@
+librosa
+numpy
+speechrecognition
+torch
+transformers
+pyaudio
+flask
